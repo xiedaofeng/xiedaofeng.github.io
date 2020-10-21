@@ -1,37 +1,17 @@
-## Welcome to GitHub Pages
+### 个人信息
+#### 姓名 谢道峰
+#### 学历 本金额
+#### 学校 湖南工商大学北津学院
+#### 邮箱 1085439431@qq.com
+#### 电话 17707458463
+#### 专业 信息与计算科学
+#### 研究方向 为理科专业，包括信息科学与计算数学两个方面。方向一是以计算机科学方面为主，数学方面为辅；方向二是以数学方面为主，计算机科学方面为辅。
 
-You can use the [editor on GitHub](https://github.com/xiedaofeng/xiedaofeng.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+### 荣誉奖励
+-奖学金
+-比赛获奖
+### 项目研究
+#### 公司/学校
+**项目1**
+项目描述
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/xiedaofeng/xiedaofeng.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
